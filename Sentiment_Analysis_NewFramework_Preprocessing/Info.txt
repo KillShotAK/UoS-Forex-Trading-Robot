@@ -1,0 +1,1 @@
+This sentiment analysis was done on the basis of the new framework decided for the alignment of the data.
