@@ -1,0 +1,3 @@
+This folder contain files and sentiment preprocessing methods we explored for the old framework when we did not segregate sentiments into 5 different categories.
+
+this has two files from two different models of sentiment preprocessing , these models showed the most balanced classes and results. 
