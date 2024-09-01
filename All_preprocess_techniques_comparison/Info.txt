@@ -1,0 +1,1 @@
+This folder has all the files needed for the comparison of the different technical methods of preprocessing the technical forex data.
